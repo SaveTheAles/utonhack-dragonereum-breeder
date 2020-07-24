@@ -1,2 +1,5 @@
-# utonhack-dragonereum-breeder
-Analytics tools for breeding dragons
+`npm install`
+
+`npm start`
+
+go to `localhost:3000`
